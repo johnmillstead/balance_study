@@ -37,3 +37,6 @@ Note: This project is a small part of a larger project.  The complete project is
 * Use Python with *Openpyxl, Pandas, etc.* to extract employee name and ending balance from the monthly financial report
 * Current problem: Figuring out how to loop through sheets and extract *name* (kind of figured out) and *ending balance*
 * This is the most confusing of all of the other parts.
+
+![output](https://user-images.githubusercontent.com/39529379/110819361-58dd7a80-824b-11eb-888c-7457d186e6dc.png)
+
