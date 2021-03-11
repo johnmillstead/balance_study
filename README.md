@@ -31,3 +31,9 @@ Note: This project is a small part of a larger project.  The complete project is
 * Calculate admin assessment from monthly donations
 * Use a *gl code* csv as a dictionary to keep track of employee name, id, gl code, ministry name -- naming conventions
 * Use ending balance + (donations-assessment) - expenses = current balance
+
+## The balance_study part
+
+* Use Python with *Openpyxl, Pandas, etc.* to extract employee name and ending balance from the monthly financial report
+* Current problem: Figuring out how to loop through sheets and extract *name* (kind of figured out) and *ending balance*
+* This is the most confusing of all of the other parts.
