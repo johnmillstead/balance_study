@@ -8,6 +8,8 @@ Note: This project is a small part of a larger project.  The complete project is
 * Input from *donations*
 * Input from *expenses*
 * All linked together with *gl_codes*
+* Salary report exported from payroll software
+* Budgeted payroll spreadsheet
 
 ## Current situation
 
