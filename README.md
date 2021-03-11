@@ -1,6 +1,6 @@
 # balance_study
 
-The idea is to start transform a time consuming, mundane Excel report into a quick, easy to use report in Python.
+The idea is to transform a time consuming, mundane Excel report into a quick, easy to use report in Python.
 
 Note: This project is a small part of a larger project.  The complete project is the Employee Balance and Payroll Calculator.  The complete project will use:
 
